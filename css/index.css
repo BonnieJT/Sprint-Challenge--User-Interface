@@ -268,8 +268,16 @@ footer nav a {
     padding-bottom: 10px;
 }
 
-.about-summary
+.about-summary {
+    width: 760px;
+    margin: 0 auto ;
+    padding: 30px 0;
+}
 
-.about-summary-title
+.about-summary-title {
 
-.about-summary-para 
+}
+
+.about-summary-para {
+
+}
